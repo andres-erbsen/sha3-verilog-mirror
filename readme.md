@@ -1,0 +1,1 @@
+This is a mirror of the low throughput sha3 core (for cheap FPGA-s) by Homer Hsing  <homer.hsing@gmail.com> from opencores <http://opencores.org/websvn,listing?repname=sha3&path=%2Fsha3%2Ftrunk%2F#path_sha3_trunk_> (Rev 8 2013-01-29 07:40:49 GMT).
